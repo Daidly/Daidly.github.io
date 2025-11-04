@@ -24,13 +24,13 @@ repository               : "Daidly/Daidly.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mingze Yuan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "a freshman"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Southeast University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yuanmingze2023@gmail.com" 
 
   # Academic websites
   academia         : # URL
